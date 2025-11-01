@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "aws-simple-app",
   "version": "1.0.0",
@@ -18,24 +17,3 @@
   "license": "ISC",
   "type": "commonjs"
 }
-=======
-{
-  "name": "aws-simple-app",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "dotenv": "^16.6.1",
-    "express": "^4.21.2",
-    "mysql2": "^3.0.0",
-    "pg": "^8.16.3"
-  },
-  "description": "Steps to run locally or on EC2:",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
-}
->>>>>>> 09c502855776095b01c2b204c9ff36f91c4aa121
